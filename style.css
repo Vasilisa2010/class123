@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:Thistle;
+    border: 2px solid rgb(197, 146, 197);
+    border-radius: 15px;
+    padding: 5px;
+}
+header a{
+  color:Black ; 
+  text-decoration: none;
+}
+h1{
+  background-color:Thistle;
+  border: 2px solid rgb(197, 146, 197);
+  border-radius:15px;
+  text-align: center;
+  }
+  footer{
+    background-color:Thistle ;
+    border: 2px solid rgb(197, 146, 197);
+    border-radius: 15px;
+  }
+  nav{
+    background-color:Thistle ;
+    border: 2px solid rgb(197, 146, 197);
+    border-radius: 15px;
+  }
+  nav a{
+    text-decoration:none;
+    color: black;
+    margin: 50px;
+  }
+.hhh{
+    background-color:Thistle ;
+    border: 2px solid rgb(197, 146, 197);
+     border-radius: 15px;
+} 
+h2{
+  background-color:Thistle ;
+      border: 2px solid rgb(197, 146, 197);
+     border-radius: 15px;
+}
+p{
+ color:Indigo ;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
